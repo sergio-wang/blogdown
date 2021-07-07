@@ -1,0 +1,13 @@
+[en]
+title = "My blog"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[pt]
+title = "Meu Blog"
+description = "Olá, pode me chamar de Sérgio ou Gigi! \nBem vindo ao meu blog"
+contentDir = "content/portuguese" 
+weight = 2
+LanguageDirection = "ltr"
+LanguageName = "PT-BR"
